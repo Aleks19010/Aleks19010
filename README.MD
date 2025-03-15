@@ -4,7 +4,7 @@
 <br><br>
 </div>
 
-<img src="./img/lineBar.png" width="100%" height="8px"/>
+<img src="/img/lineBar.png" width="100%" height="8px"/>
 
 # About Me:
 
@@ -16,7 +16,7 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" />I love learn new things about music and technology
 
-<img src="./img/lineBar.png" width="100%" height="8px"/>
+<img src="/img/lineBar.png" width="100%" height="8px"/>
 
 <!--Herramientas-->
 <hr>
@@ -70,4 +70,4 @@
 
 <hr>
 
-<img src="./img/lineBar.png" width="100%" height="8px"/>
+<img src="/img/lineBar.png" width="100%" height="8px"/>
