@@ -21,7 +21,7 @@
 <!--Herramientas-->
 <hr>
 
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+# Languages & Frameworks & Tools & Abilities:
 
 <hr>
 <h2 align="center"> Languages </h2>
